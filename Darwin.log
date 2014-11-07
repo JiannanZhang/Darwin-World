@@ -1,0 +1,89 @@
+commit 800632487005c615b43167756ba4520ddf7b8ead
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Thu Nov 6 18:20:59 2014 -0600
+
+    finished all
+
+commit 3e7af552fc58634badb2a80214e4d6808783e768
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Thu Nov 6 17:47:43 2014 -0600
+
+    correct rundarwin.out and generated pydoc
+
+commit d0e1e4fa0ff0f9ef9951244706dd8d9bee68ed13
+Author: Xiaying Zhang <lucey.zhang@yahoo.com>
+Date:   Thu Nov 6 16:54:34 2014 -0600
+
+    after checking random grid
+
+commit e2217c30600504a1bbb0902220517043311dd328
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Thu Nov 6 00:38:54 2014 -0600
+
+    cool finished
+
+commit ac3505dd67676d140ae2e3a00a9f3f0945eebe07
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Wed Nov 5 23:01:42 2014 -0600
+
+    update
+
+commit 31b55ac169ac9ce5d466ca07f03a4f2417d2ec55
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Wed Nov 5 23:00:04 2014 -0600
+
+    finished the program
+
+commit 1b6c39358fd6687f9cb37f197586cb6ef25ace3f
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Wed Nov 5 00:06:42 2014 -0600
+
+    has a weird bug hahahahha
+
+commit 4fa2f9e40c83d9b266bc118558cdbee90a7ab327
+Author: Xiaying Zhang <lucey.zhang@yahoo.com>
+Date:   Tue Nov 4 20:08:49 2014 -0600
+
+    adding to the skeleton code
+
+commit b5a3cba80622a151fed15fec8654b31e1b50fca2
+Author: Jeffrey Zhang <jiannanzhang1992@gmail.com>
+Date:   Mon Nov 3 18:52:24 2014 -0600
+
+    Update Darwin.py
+
+commit e64e964a9385a206d559964e82e19cc4cbfc741d
+Author: Jeffrey Zhang <jiannanzhang1992@gmail.com>
+Date:   Mon Nov 3 18:51:01 2014 -0600
+
+    clean code
+
+commit 1220a5a3b804f4db2bc712cb6aee108d7a53570d
+Author: Jeffrey Zhang <jiannanzhang1992@gmail.com>
+Date:   Mon Nov 3 18:49:09 2014 -0600
+
+    finished skeleton code
+
+commit 72189b50e793988415089e302097b262df1a299f
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Mon Nov 3 16:05:34 2014 -0600
+
+    more skeleton code
+
+commit f903dd22b9b660815218db77c0c59cb77e687b1f
+Author: Jiannan Zhang <jz1992@cs.utexas.edu>
+Date:   Sun Nov 2 19:14:49 2014 -0600
+
+    finish skeleton code
+
+commit e165c811d5aaa0eaf63e63d8b24c85d20a15ec94
+Author: Xiaying Zhang <lucey.zhang@yahoo.com>
+Date:   Wed Oct 29 19:52:17 2014 -0500
+
+    basic class definitions created
+
+commit cb168295f4e6e08657c354be4cf193d85cafce3e
+Author: lucey <lucey.zhang@yahoo.com>
+Date:   Wed Oct 29 18:48:41 2014 -0500
+
+    Initial commit
