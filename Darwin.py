@@ -11,6 +11,7 @@ class Species:
         self.program.append(instr)
 
     def next_instr(self, pc):
+        # pc : program counter
         # return the instruction at given index
         assert self.program != []
         return self.program[pc]
@@ -21,6 +22,7 @@ class Creature:
         self.species = species
         self.direction = direction
         self.pc = 0
+        # key BF hasMoved
         self.hasMoved = False
         assert self.hasMoved == False
 
@@ -172,8 +174,8 @@ class Darwin:
                         # get the most recent instruction list and value
                         instr = c.species.next_instr(c.pc)
                         temp_instr = instr[0]
-
-                        # the next space is empty
+                        # consider control instr first
+                        # if the next space is empty
                         if temp_instr == 'if_empty':
                             if (next_creature == '.'):
                                 # execute command mentioned
